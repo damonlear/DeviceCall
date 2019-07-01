@@ -1,0 +1,5 @@
+﻿<resources>
+    <string name="app_name">PEMT TEST</string>
+    <string name="txt_test_ir_start">开始红外测试</string>
+    <string name="txt_test_scan_start">开始扫码测试</string>
+</resources>
