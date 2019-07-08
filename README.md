@@ -1,4 +1,4 @@
-# cepri.device.utils 硬件调用案例
+# cepri_device_utils 硬件调用案例
 
 ## 协议说明
 
